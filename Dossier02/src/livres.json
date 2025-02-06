@@ -1,0 +1,21 @@
+[
+    {
+        "titre":"RESTful Java Web Services ",
+        "Auteur":"David Lu",
+        "Edition":"Packt",
+        "poster":"http://localhost/livres/livre1.png"
+    },
+    {
+        "titre":"REST API Development with node.js ",
+        "Auteur":"Fernando Daglio ",
+        "Edition":"Apress",
+        "poster":"http://localhost/livres/livre2.png"
+    },
+    {
+        "titre":"RESTful Java Web Cookbook ",
+        "Auteur":"Subbu Allamarju",
+        "Edition":"OREILLY",
+        "poster":"http://localhost/livres/livre3.png"
+    }
+    
+]

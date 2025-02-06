@@ -1,0 +1,11 @@
+{
+    "country":"nom pays",
+    "countryInfo":{
+        "_id": nombre ,
+        "iso2": "Abbrev" ,
+        "iso3": "Abbrev" ,
+        "lat": nombre ,
+        "long": nombre ,
+        "flag": "path" 
+    }
+}
